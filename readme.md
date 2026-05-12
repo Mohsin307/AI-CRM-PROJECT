@@ -26,8 +26,6 @@ The system uses an **AI agent (LangGraph + Groq LLM)** to automatically extract 
 
 ## 🏗️ System Architecture
 
-## 🏗️ System Architecture
-
 ```text
 ┌──────────────────────────┐
 │ React Frontend           │

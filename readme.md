@@ -115,7 +115,7 @@ Interact with Groq LLM
 Process CRM workflows
 Store structured outputs
 
-LangGraph enables stateful multi-step AI workflows.
+##LangGraph enables stateful multi-step AI workflows.
 
 🛠️ LangGraph Tools
 1️⃣ Log Interaction Tool
@@ -129,12 +129,16 @@ Sentiment detection
 Follow-up identification
 Example
 Doctor discussed cardiology medicines and requested a demo next Monday.
+
+
 2️⃣ Edit Interaction Tool
 
 Allows modification of existing interaction records.
 
 Example
 Change follow-up date from Monday to Wednesday.
+
+
 3️⃣ HCP Lookup Tool
 
 Fetches doctor details and interaction history.
@@ -150,6 +154,7 @@ Suggests pharmaceutical products based on doctor specialty and interaction conte
 
 Example
 Suggest cardiology-related products.
+
 5️⃣ Follow-Up Reminder Tool
 
 Schedules reminders and tracks pending actions.

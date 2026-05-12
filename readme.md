@@ -64,3 +64,17 @@ The system uses an **AI agent (LangGraph + Groq LLM)** to automatically extract 
 │ SQLite / PostgreSQL DB   │
 └──────────────────────────┘
 ```
+## Tech Stack
+
+Frontend:
+- React
+- Redux
+- Tailwind CSS
+
+Backend:
+- FastAPI
+- LangGraph
+- Groq API
+
+Database:
+- PostgreSQL
